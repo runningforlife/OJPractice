@@ -2,7 +2,7 @@
 
 Online Judge programming list
 
-*** problem list ***
+*** undone problem list ***
 
 1.POJ 1068
 2.POJ 1125
