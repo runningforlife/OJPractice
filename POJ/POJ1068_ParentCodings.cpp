@@ -8,7 +8,7 @@ int w[MAX_LEN];
 void solve();
 
 int main(){
-    freopen("InputData/POJ1068.txt","r",stdin);
+    //freopen("InputData/POJ1068.txt","r",stdin);
     int T;
     scanf("%d",&T);
 
