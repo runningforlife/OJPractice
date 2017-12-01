@@ -1,4 +1,4 @@
-#include"BinaryHeap.h"
+#include"binaryheap.h"
 
 int leftChild(int i){
     return 2*i;
